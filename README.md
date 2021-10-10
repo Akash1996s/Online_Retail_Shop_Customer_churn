@@ -13,7 +13,7 @@ Data Description:
 
 ![image](https://user-images.githubusercontent.com/51374209/136683566-ed95dece-1b4a-4bc0-bed0-bf517b9146df.png)
 
-# Algorithms Used:
+## Algorithms Used:
 1. OLS
 2. Logistic Regression
 3. Decision Tree
