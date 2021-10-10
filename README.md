@@ -7,7 +7,7 @@ Is to predict the customer churn before time and help the business to know the f
 ## CHURN:
 Wikipedia states that the churn rate (also called attrition rate) measures the number of individuals or items moving out of a collective group over a specific period. It applies in many contexts, but the mainstream understanding of churn rate is related to the business case of customers that stop buying from you.
 
-Data Description:
+## Data Description:
 
 
 
